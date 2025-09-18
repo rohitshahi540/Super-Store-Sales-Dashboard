@@ -7,11 +7,17 @@ Super Store across different regions, categories, and customer segments.
 **The dashboard should answer questions such as:**
 
 • What is the total sales, profit, and order count?
+
 • Which product categories and sub-categories generate the highest revenue?
+
 • Which regions and states contribute most to sales and profit?
+
 • How do sales and profit trends change over time?
+
 • What is the average shipping performance?
+
 • Which payment methods and shipping modes are preferred by customers?
+
 • How can we forecast sales for the upcoming period?
 
 **KPIs (Key Performance Indicators)**
